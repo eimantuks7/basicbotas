@@ -71,7 +71,7 @@
     "timelimit": "\/me @%%NAME%%, tavo daina yra ilgesn\u0117 negu %%MAXLENGTH%% minut\u0117s, tau reikia privilegij\u0173 kad gal\u0117tum leisti ilgesnes dainas.",
     "permissionownsong": "\/me :up: @%%NAME%% turi privilegijas leisti savo k\u016brinius!",
     "isblacklisted": "\/me \u0160i daina yra %%BLACKLIST%% blacklist'e! Perjungiama...",
-    "isopen": "\/me Rulet\u0117 prasid\u0117jo! Ra\u0161yk !join kad dalyvautum! @djs (Rulet\u0117 tai: ka\u017ekuris i\u0161 dalyviu parenkamas atsitiktiniu b\u016bdu ir nukeliamas \u012f 1 waitlist'o viet\u0105)",
+    "isopen": "\/me @djs Rulet\u0117 prasid\u0117jo! Ra\u0161yk !join kad dalyvautum! (Rulet\u0117 tai: ka\u017ekuris i\u0161 dalyviu parenkamas atsitiktiniu b\u016bdu ir nukeliamas \u012f 1 waitlist'o viet\u0105)",
     "winnerpicked": "\/me Laim\u0117tojas parinktas! @%%NAME%% perkeltas \u012f pozicij\u0105 %%POSITION%%",
     "ball": "\/me %%NAME%% klausimas buvo: \"%%QUESTION%%\" ir %%BOTNAME%% atsakymas yra: \"%%RESPONSE%%\"",
     "notghosting": "[%%NAME1%%] %%NAME2%% n\u0117ra \u0161e\u0161\u0117liuose.",
