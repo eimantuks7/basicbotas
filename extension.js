@@ -19,7 +19,7 @@
       //Extend the bot here, either by calling another function or here directly.
 
       // You can add more spam words to the bot.
-      var spamWords = ['geriausieji', 'spam2', 'spam3', 'spam4'];
+      var spamWords = ['geriausieji', 'duxas', 'duhas', 'pydaras', 'gaidys', 'naxui'];
       for (var i = 0; i < spamWords.length; i++) {
         window.bot.chatUtilities.spam.push(spamWords[i]);
       }
@@ -46,7 +46,7 @@
   //Change the bots default settings and make sure they are loaded on launch
 
   localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: 'SISTEMA',
+      botName: 'VERGAS',
       language: 'lithuanian',
       chatLink: 'https://raw.githack.com/eimantuks7/basicbotas/master/lang/lt.json',
       scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
@@ -92,8 +92,8 @@
       afkpositionCheck: 15,
       afkRankCheck: 'ambassador',
       motdEnabled: false,
-      motdInterval: 5,
-      motd: 'Temporary Message of the Day',
+      motdInterval: 10,
+      motd:
       filterChat: true,
       etaRestriction: false,
       welcome: true,
@@ -103,8 +103,8 @@
       fbLink: null,
       youtubeLink: 'https://www.youtube.com/channel/UC3m7yzO8lUGByYFt2HOBOQw?view_as=subscriber',
       website: null,
-      intervalMessages: [],
-      messageInterval: 5,
+      intervalMessages: `["[TĖVYNĖS POSĖDIS] Primename, kad Penktadienį (23/08/2019) nuo 20:00 iki 23:00 Lietuvos laiku gros tik Lietuviška muzika. Ne Lietuviška muzika - SKIP"]`,
+      messageInterval: 10,
       songstats: false,
       commandLiteral: '!',
       blacklists: {
