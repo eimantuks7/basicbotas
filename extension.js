@@ -92,8 +92,8 @@
       afkpositionCheck: 15,
       afkRankCheck: 'ambassador',
       motdEnabled: false,
-      motdInterval: 10,
-      motd:
+      motdInterval: 5,
+      motd: 'Temporary Message of the Day',
       filterChat: true,
       etaRestriction: false,
       welcome: true,
